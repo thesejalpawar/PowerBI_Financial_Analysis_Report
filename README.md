@@ -1,13 +1,10 @@
 # PowerBI_Financial_Analysis_Report
 
-The main purpose of this PowerBI Analysis is to provide insights that support strategic planning,  and help making profitable investment decision , and help improve margin areas in order of investment loss,margin,sales etc.
-
-That’s a great Power BI project to showcase on your GitHub, Sejal! ✨
-To make your GitHub post (README or description) stand out and look professional, here’s a complete write-up you can add — tailored for recruiters or hiring managers who’ll view your profile:
-
----
+The main purpose of this PowerBI Analysis is to provide insights that support strategic planning,  and help making profitable investment decision , and help improve margin areas in order of investment loss,margin,sales etc. **(Read Below For more Info !)**
 
 ## 💼 Financial Analysis Dashboard – Power BI
+![Sej_Financial_Analysis](https://github.com/user-attachments/assets/306e665a-f7c8-4cd0-b34d-764ae99948d0)
+
 
 ### 🔍 Project Overview
 
